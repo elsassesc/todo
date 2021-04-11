@@ -28,4 +28,4 @@ todoList.todos.forEach( crearTodoHtml );
 // todoList.todos[0].imprimirClase();
 // newTodo.imprimirClase();
 
-console.log( 'todos', todoList.todos );
+// console.log( 'todos', todoList.todos );
